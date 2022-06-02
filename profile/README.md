@@ -7,7 +7,7 @@ This is a place for [Persado](https://www.persado.com)'s open source contributio
 [Persado is hiring](https://www.persado.com/company/careers/). Check out some of our open positions:
 
   * New York or Remote in the US:
-    * [Ruby on Rails Full Stack Software Engineer](https://apply.workable.com/persado/j/ECB8B35532/)
+    * [Ruby on Rails Full Stack Software Engineer](https://apply.workable.com/persado/j/231D3736C6/)
     * [SVP, Engineering](https://apply.workable.com/persado/j/1B00FB002C/)
   * Athens, or Remote in Greece:
     * [Backend Software Engineer](https://apply.workable.com/persado/j/B3F42FE049/)
